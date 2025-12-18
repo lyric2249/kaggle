@@ -1,4 +1,4 @@
-```
+```python
 def modules(cls):
 
     import importlib, pkgutil
